@@ -35,10 +35,10 @@ Programm arguments : -gui <nom_de_l'agent1>:<Package.Nom_classe>;<nom_de_l'agent
 
 # Voilà tout les exercices sauf Exo 3
 
-Exercice N°1 : https://github.com/walid31/Exercice-1-Tech-agent
-Exercice N°2 : https://github.com/walid31/Exercice-2-Tech-Agent
-Exercice N°4 : https://github.com/walid31/Exercice-4-Tech-agent
-Exercice N°5 : https://github.com/walid31/Exercice-5-Tech-agent
-Exercice N°6 : https://github.com/walid31/Exercice-6-Tech-agent
+- [Exercice N°1](https://github.com/walid31/Exercice-1-Tech-agent)
+- [Exercice N°2](https://github.com/walid31/Exercice-2-Tech-Agent)
+- [Exercice N°4](https://github.com/walid31/Exercice-4-Tech-agent)
+- [Exercice N°5](https://github.com/walid31/Exercice-5-Tech-agent)
+- [Exercice N°6](https://github.com/walid31/Exercice-6-Tech-agent)
 
-##Enjoy
+#Enjoy :+1
